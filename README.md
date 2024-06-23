@@ -5,3 +5,5 @@
 0.0.3 Fixed!
 
 0.0.4 Showcasing the beauty of VSCode
+
+0.0.5 Hello World!
